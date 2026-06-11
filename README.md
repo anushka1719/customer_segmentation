@@ -53,7 +53,7 @@ The model successfully grouped customers into multiple segments based on annual 
 
 ## Elbow Method
 
-![Elbow Method](images/elbow_method.png)
+![Elbow Method](images/Elbow_method.png)
 
 ## Clusters
 
