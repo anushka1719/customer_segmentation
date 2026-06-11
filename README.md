@@ -47,17 +47,17 @@ The model successfully grouped customers into multiple segments based on annual 
 
 ![Mall Customers Dataset](images/mallcustomers.png)
 
-## Customer Data
+## Customer Segments
 
-![Customers](images/customers.png)
+![Customer Segments](images/customersegments.png)
 
 ## Elbow Method
 
-![Elbow method](images/elbow method.png)
+![Elbow Method](images/Elbow method .png)
 
-## Customer Segments
+## Clusters
 
-![Customer Segments](images/clusters.png)
+![Clusters](images/clusters.png)
 
 ## Future Improvements
 
