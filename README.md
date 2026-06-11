@@ -42,6 +42,23 @@ The model successfully grouped customers into multiple segments based on annual 
 * Personalized Recommendations
 * Business Decision Making
 
+
+## Dataset Preview
+
+![Mall Customers Dataset](images/mallcustomers.png)
+
+## Customer Data
+
+![Customers](images/customers.png)
+
+## Elbow Method
+
+![Elbow Method](images/elbow method.png)
+
+## Customer Segments
+
+![Customer Segments](images/clusters.png)
+
 ## Future Improvements
 
 * Hierarchical Clustering
