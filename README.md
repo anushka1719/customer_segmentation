@@ -42,19 +42,6 @@ The model successfully grouped customers into multiple segments based on annual 
 * Personalized Recommendations
 * Business Decision Making
 
-## Repository Structure
-
-customer_segmentation/
-│
-├── data/
-│   ├── Mall_Customers.csv
-│   └── customer_segments.csv
-│
-├── notebook/
-│   └── customer_segmentation.ipynb
-│
-└── README.md
-
 ## Future Improvements
 
 * Hierarchical Clustering
@@ -62,7 +49,3 @@ customer_segmentation/
 * Interactive Dashboards using Streamlit
 * Real-Time Customer Analysis
 
-## Author
-
-Anushka
-Aspiring AI/ML Engineer
